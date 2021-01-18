@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/main.d6364775.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/main.f62894a4.chunk.js",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/runtime-main.3ca09b36.js",
     "static/js/2.56378066.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/2.56378066.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/index.html",
-    "precache-manifest.a58998fc333903a421ecadf6fede73c0.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/precache-manifest.a58998fc333903a421ecadf6fede73c0.js",
+    "precache-manifest.beeae4f73e5182dcb0208fe390e1288d.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/precache-manifest.beeae4f73e5182dcb0208fe390e1288d.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/service-worker.js",
     "static/js/2.56378066.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/2.56378066.chunk.js.LICENSE.txt",
     "static/media/eth.png": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/media/eth.73dabb37.png",
@@ -13,6 +13,6 @@
   "entrypoints": [
     "static/js/runtime-main.3ca09b36.js",
     "static/js/2.56378066.chunk.js",
-    "static/js/main.d6364775.chunk.js"
+    "static/js/main.f62894a4.chunk.js"
   ]
 }
