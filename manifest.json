@@ -1,6 +1,6 @@
 {
-  "short_name": "Mdex Info",
-  "name": "View statistics for uniscam exchanges.",
+  "short_name": "Uniswap Info",
+  "name": "View statistics for Uniswap exchanges.",
   "icons": [
     {
       "src": "favicon.ico",

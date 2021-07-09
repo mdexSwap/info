@@ -18,37 +18,9 @@ object-assign
 
 /*!
  * @license
- * TradingView Lightweight Charts v3.1.5
+ * TradingView Lightweight Charts v3.3.0
  * Copyright (c) 2020 TradingView, Inc.
  * Licensed under Apache License 2.0 https://www.apache.org/licenses/LICENSE-2.0
- */
-
-/*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
- * @license  MIT
- */
-
-/*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
- */
-
-/*!
- * UAParser.js v0.7.22
- * Lightweight JavaScript-based User-Agent string parser
- * https://github.com/faisalman/ua-parser-js
- *
- * Copyright © 2012-2019 Faisal Salman <f@faisalman.com>
- * Licensed under MIT License
- */
-
-/*!
- * v2.1.4-104-gc868b3a
- * 
  */
 
 /*! *****************************************************************************
@@ -259,11 +231,7 @@ and limitations under the License.
 
 /*! https://mths.be/punycode v1.4.1 by @mathias */
 
-/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
 /*! no static exports found */
-
-/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 /*!*********************!*\
         !*** ./src/icon.js ***!
@@ -589,22 +557,13 @@ and limitations under the License.
         !*** ./node_modules/core-js/internals/validate-set-prototype-of-arguments.js ***!
         \*******************************************************************************/
 
-/**
- * [js-sha3]{@link https://github.com/emn178/js-sha3}
+/*!@license
+ * UAParser.js v0.7.25
+ * Lightweight JavaScript-based User-Agent string parser
+ * https://github.com/faisalman/ua-parser-js
  *
- * @version 0.5.7
- * @author Chen, Yi-Cyuan [emn178@gmail.com]
- * @copyright Chen, Yi-Cyuan 2015-2016
- * @license MIT
- */
-
-/**
- * [js-sha3]{@link https://github.com/emn178/js-sha3}
- *
- * @version 0.8.0
- * @author Chen, Yi-Cyuan [emn178@gmail.com]
- * @copyright Chen, Yi-Cyuan 2015-2018
- * @license MIT
+ * Copyright © 2012-2021 Faisal Salman <f@faisalman.com>
+ * Licensed under MIT License
  */
 
 /** @license React v0.19.1
@@ -642,5 +601,3 @@ and limitations under the License.
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
-
-/** @license URI.js v4.4.0 (c) 2011 Gary Court. License: http://github.com/garycourt/uri-js */
