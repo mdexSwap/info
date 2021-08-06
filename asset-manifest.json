@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/main.eb0721d4.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/main.a3436d9b.chunk.js",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/runtime-main.55e866c3.js",
-    "static/js/2.6f7cc885.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/2.6f7cc885.chunk.js",
+    "static/js/2.65758416.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/2.65758416.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/index.html",
-    "precache-manifest.069b00dc1a07770c54ce6fda9e4f6e00.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/precache-manifest.069b00dc1a07770c54ce6fda9e4f6e00.js",
+    "precache-manifest.20077144ea70b259aae055c4e06d3e9b.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/precache-manifest.20077144ea70b259aae055c4e06d3e9b.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/service-worker.js",
-    "static/js/2.6f7cc885.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/2.6f7cc885.chunk.js.LICENSE.txt",
+    "static/js/2.65758416.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/2.65758416.chunk.js.LICENSE.txt",
     "static/media/logo.png": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/media/logo.8e72f6f2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.55e866c3.js",
-    "static/js/2.6f7cc885.chunk.js",
-    "static/js/main.eb0721d4.chunk.js"
+    "static/js/2.65758416.chunk.js",
+    "static/js/main.a3436d9b.chunk.js"
   ]
 }
