@@ -18,18 +18,9 @@ object-assign
 
 /*!
  * @license
- * TradingView Lightweight Charts v3.1.5
+ * TradingView Lightweight Charts v3.3.0
  * Copyright (c) 2020 TradingView, Inc.
  * Licensed under Apache License 2.0 https://www.apache.org/licenses/LICENSE-2.0
- */
-
-/*!
- * UAParser.js v0.7.22
- * Lightweight JavaScript-based User-Agent string parser
- * https://github.com/faisalman/ua-parser-js
- *
- * Copyright © 2012-2019 Faisal Salman <f@faisalman.com>
- * Licensed under MIT License
  */
 
 /*! *****************************************************************************
@@ -565,6 +556,15 @@ and limitations under the License.
 /*!*******************************************************************************!*\
         !*** ./node_modules/core-js/internals/validate-set-prototype-of-arguments.js ***!
         \*******************************************************************************/
+
+/*!@license
+ * UAParser.js v0.7.25
+ * Lightweight JavaScript-based User-Agent string parser
+ * https://github.com/faisalman/ua-parser-js
+ *
+ * Copyright © 2012-2021 Faisal Salman <f@faisalman.com>
+ * Licensed under MIT License
+ */
 
 /** @license React v0.19.1
  * scheduler.production.min.js
