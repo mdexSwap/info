@@ -2,7 +2,7 @@
   "files": {
     "static/js/0.fdb6bf80.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/0.fdb6bf80.chunk.js",
     "static/js/1.295597db.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/1.295597db.chunk.js",
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/main.b7f79c54.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/main.ad5dad67.chunk.js",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/runtime-main.2dd51a8f.js",
     "static/css/4.3013b590.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/css/4.3013b590.chunk.css",
     "static/js/4.cab83a5c.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/4.cab83a5c.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.2dd51a8f.js",
     "static/css/4.3013b590.chunk.css",
     "static/js/4.cab83a5c.chunk.js",
-    "static/js/main.b7f79c54.chunk.js"
+    "static/js/main.ad5dad67.chunk.js"
   ]
 }
