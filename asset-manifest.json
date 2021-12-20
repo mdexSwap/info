@@ -1,28 +1,28 @@
 {
   "files": {
-    "static/js/0.fdb6bf80.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/0.fdb6bf80.chunk.js",
-    "static/js/1.295597db.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/1.295597db.chunk.js",
-    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/main.ad5dad67.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/runtime-main.2dd51a8f.js",
-    "static/css/4.3013b590.chunk.css": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/css/4.3013b590.chunk.css",
-    "static/js/4.cab83a5c.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/4.cab83a5c.chunk.js",
-    "static/js/5.fa21148d.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/5.fa21148d.chunk.js",
-    "static/js/6.01cf16c4.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/6.01cf16c4.chunk.js",
-    "static/js/7.3cc74a99.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/7.3cc74a99.chunk.js",
-    "static/js/8.26d20c09.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/8.26d20c09.chunk.js",
-    "static/js/9.84931dd5.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/9.84931dd5.chunk.js",
-    "index.html": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/index.html",
-    "static/js/0.fdb6bf80.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/0.fdb6bf80.chunk.js.LICENSE.txt",
-    "static/js/4.cab83a5c.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/4.cab83a5c.chunk.js.LICENSE.txt",
-    "static/js/5.fa21148d.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/5.fa21148d.chunk.js.LICENSE.txt",
-    "static/js/7.3cc74a99.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/js/7.3cc74a99.chunk.js.LICENSE.txt",
-    "static/media/inter.css": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/media/Inter.var.a738a131.woff2",
-    "static/media/arbitrum.abae01ba.svg": "https://cdn.jsdelivr.net/gh/mdexSwap/info@main/static/media/arbitrum.abae01ba.svg"
+    "static/js/0.1a6d352b.chunk.js": "/static/js/0.1a6d352b.chunk.js",
+    "static/js/1.6eebf03b.chunk.js": "/static/js/1.6eebf03b.chunk.js",
+    "main.js": "/static/js/main.99dab563.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.1c5ef42b.js",
+    "static/css/4.c5586971.chunk.css": "/static/css/4.c5586971.chunk.css",
+    "static/js/4.43835b05.chunk.js": "/static/js/4.43835b05.chunk.js",
+    "static/js/5.1c085077.chunk.js": "/static/js/5.1c085077.chunk.js",
+    "static/js/6.c7cd191e.chunk.js": "/static/js/6.c7cd191e.chunk.js",
+    "static/js/7.20fb835f.chunk.js": "/static/js/7.20fb835f.chunk.js",
+    "static/js/8.081c7649.chunk.js": "/static/js/8.081c7649.chunk.js",
+    "static/js/9.e29c6c3b.chunk.js": "/static/js/9.e29c6c3b.chunk.js",
+    "index.html": "/index.html",
+    "static/js/0.1a6d352b.chunk.js.LICENSE.txt": "/static/js/0.1a6d352b.chunk.js.LICENSE.txt",
+    "static/js/4.43835b05.chunk.js.LICENSE.txt": "/static/js/4.43835b05.chunk.js.LICENSE.txt",
+    "static/js/5.1c085077.chunk.js.LICENSE.txt": "/static/js/5.1c085077.chunk.js.LICENSE.txt",
+    "static/js/7.20fb835f.chunk.js.LICENSE.txt": "/static/js/7.20fb835f.chunk.js.LICENSE.txt",
+    "static/media/inter.css": "/static/media/Inter.var.a738a131.woff2",
+    "static/media/arbitrum.abae01ba.svg": "/static/media/arbitrum.abae01ba.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2dd51a8f.js",
-    "static/css/4.3013b590.chunk.css",
-    "static/js/4.cab83a5c.chunk.js",
-    "static/js/main.ad5dad67.chunk.js"
+    "static/js/runtime-main.1c5ef42b.js",
+    "static/css/4.c5586971.chunk.css",
+    "static/js/4.43835b05.chunk.js",
+    "static/js/main.99dab563.chunk.js"
   ]
 }
